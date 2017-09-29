@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Meu Primeiro App SI3ANBUA</string>
     <string name="hello_world">Olá, Mundo</string>
+    <string name="dica">Digite um texto</string>
+    <string name="ok">OK</string>
 </resources>
